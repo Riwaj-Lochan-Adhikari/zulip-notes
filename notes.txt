@@ -1,1 +1,3 @@
-Pull requests that have significant work towards something valuable are often tagged with a completion candidate label
+Pull requests that have significant work towards something valuable are often tagged with a completion candidate label.
+
+An atomic commit is a Git commit that contains one complete, logically related change.
