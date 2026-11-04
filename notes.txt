@@ -1,3 +1,6 @@
 Pull requests that have significant work towards something valuable are often tagged with a completion candidate label.
 
 An atomic commit is a Git commit that contains one complete, logically related change.
+
+ The most direct way to credit the work of someone beyond the commit’s author maintained in the Git metadata is Co-authored-by: line after a blank line at the end of your commit message:
+ for example: Co-authored-by: Greg Price <greg@zulip.com>
