@@ -25,4 +25,6 @@ If you started from scratch, explain why you decided to do so, and how your appr
 “I didn’t use the work in PR #23154, because this reviewer comment asked to solve this issue using CSS, rather than the JavaScript changes made in #23154.”
 “I didn’t use the work in PRs #12345 and #23154, because both didn’t work properly when a user opened their own profile.”
 
+https://zulip.readthedocs.io/en/latest/contributing/zulipbot-usage.html start reading from this link tommorow
+
 Use AI as a search engine you should understand every aspect of the code
