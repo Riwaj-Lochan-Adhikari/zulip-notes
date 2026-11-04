@@ -14,3 +14,6 @@ git commit --amend --reset-author will replace the Git commit metadata (date, au
 git commit --amend -C <commit_id> will replace the commit metadata (date, author, etc.) on a commit with that of the provided commit ID. This is useful if you accidentally made someone else’s commit show yourself as the author, or lost a useful commit message via accidental squashing. (You can usually find the right commit ID to use with git reflog or from GitHub).
 
 As an aside, maintainers who modify commits before merging them are credited via Git’s “Committer” records (visible with git show --pretty=fuller, for example). As a result, they may not bother with adding a separate Co-authored-by record on commits that they revise as part of merging a pull request.
+
+Be very careful with credits of others work 
+
