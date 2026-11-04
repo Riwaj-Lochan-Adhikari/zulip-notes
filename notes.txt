@@ -6,3 +6,11 @@ An atomic commit is a Git commit that contains one complete, logically related c
  for example: Co-authored-by: Greg Price <greg@zulip.com>
 
 git reflog -- Sometimes, you make a mistake when rebasing and accidentally squash commits in a way that messes up Git’s authorship records. Often, undoing the rebase change via **git reflog** is the best way to correct such mistakes
+
+but there are two other Git commands that can be used to correct Git’s primary authorship information after the fact:
+
+git commit --amend --reset-author will replace the Git commit metadata (date, author, etc.) of the currently checked out commit with yourself. This is useful to correct a commit that incorrectly shows someone else as the author of your work.
+
+git commit --amend -C <commit_id> will replace the commit metadata (date, author, etc.) on a commit with that of the provided commit ID. This is useful if you accidentally made someone else’s commit show yourself as the author, or lost a useful commit message via accidental squashing. (You can usually find the right commit ID to use with git reflog or from GitHub).
+
+As an aside, maintainers who modify commits before merging them are credited via Git’s “Committer” records (visible with git show --pretty=fuller, for example). As a result, they may not bother with adding a separate Co-authored-by record on commits that they revise as part of merging a pull request.
