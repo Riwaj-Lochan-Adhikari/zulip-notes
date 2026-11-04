@@ -17,3 +17,4 @@ As an aside, maintainers who modify commits before merging them are credited via
 
 Be very careful with credits of others work 
 
+Explain the relationship between your PR and prior work in the description for your pull request
