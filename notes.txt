@@ -4,3 +4,5 @@ An atomic commit is a Git commit that contains one complete, logically related c
 
  The most direct way to credit the work of someone beyond the commit’s author maintained in the Git metadata is Co-authored-by: line after a blank line at the end of your commit message:
  for example: Co-authored-by: Greg Price <greg@zulip.com>
+
+git reflog -- Sometimes, you make a mistake when rebasing and accidentally squash commits in a way that messes up Git’s authorship records. Often, undoing the rebase change via **git reflog** is the best way to correct such mistakes
