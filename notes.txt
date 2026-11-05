@@ -42,3 +42,5 @@ If you’re a new contributor, @zulipbot will give you read-only collaborator ac
 https://zulip.readthedocs.io/en/latest/contributing/zulipbot-usage.html -- this link is for zulip bot docs
 
 CVE stands for Common Vulnerabilities and Exposures
+
+Quirk means an unusual, distinctive, or slightly strange habit, behaviour, or characteristic of someone or something. 
