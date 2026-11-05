@@ -97,3 +97,8 @@ If you are not sure about the licensing or attribution for your work, please inc
 https://zulip.readthedocs.io/en/latest/processes/index.html
 
 it has links which i will read when required
+
+u just installed wsl start here tommorow
+
+
+
