@@ -55,3 +55,18 @@ zulip/zulip-flutter for issues with the mobile apps.
 zulip/zulip-desktop for issues that are specific to the Zulip desktop app, and therefore do not occur in the web app.
 
 zulip/zulip-terminal for issues with the terminal app.
+
+
+
+
+Pick an appropriate channel to report your issue:
+
+#issues for issues with the Zulip web app or server. Use this channel if you aren’t sure which channel is most appropriate.
+
+#mobile for issues with the mobile apps.
+
+#desktop for issues that are specific to the Zulip desktop app, and therefore do not occur in the web app.
+
+#zulip-terminal for issues with the terminal app.
+
+#production help for issues related to self-hosting Zulip. See the troubleshooting guide for additional details.
