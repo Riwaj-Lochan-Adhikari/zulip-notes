@@ -44,3 +44,14 @@ https://zulip.readthedocs.io/en/latest/contributing/zulipbot-usage.html -- this 
 CVE stands for Common Vulnerabilities and Exposures
 
 Quirk means an unusual, distinctive, or slightly strange habit, behaviour, or characteristic of someone or something. 
+
+
+Report the issue in the appropriate Zulip repository. The most commonly used repositories are:
+
+zulip/zulip for issues with the Zulip web app or server. A good default if you aren’t sure which repository to use.
+
+zulip/zulip-flutter for issues with the mobile apps.
+
+zulip/zulip-desktop for issues that are specific to the Zulip desktop app, and therefore do not occur in the web app.
+
+zulip/zulip-terminal for issues with the terminal app.
