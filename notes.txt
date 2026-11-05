@@ -1,3 +1,7 @@
+Multiple blank lines indicate a new topic in my notes (more than 2) however the pattern in not permanenet  
+
+
+
 Pull requests that have significant work towards something valuable are often tagged with a completion candidate label.
 
 An atomic commit is a Git commit that contains one complete, logically related change.
@@ -70,3 +74,9 @@ Pick an appropriate channel to report your issue:
 #zulip-terminal for issues with the terminal app.
 
 #production help for issues related to self-hosting Zulip. See the troubleshooting guide for additional details.
+
+
+
+
+See how to manange bugs in the following link:
+https://zulip.readthedocs.io/en/latest/contributing/reporting-bugs.html
