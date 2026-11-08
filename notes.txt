@@ -102,3 +102,7 @@ u just installed wsl start here tommorow
 
 
 Ubuntu-24.04 is my distribution's name for the project
+
+day 3's notes are not here---they are not written instead created a folder in chatgpt called continue work but please always crosscheck AI
+
+
