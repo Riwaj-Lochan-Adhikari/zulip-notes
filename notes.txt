@@ -101,4 +101,4 @@ it has links which i will read when required
 u just installed wsl start here tommorow
 
 
-
+Ubuntu-24.04 is my distribution's name for the project
