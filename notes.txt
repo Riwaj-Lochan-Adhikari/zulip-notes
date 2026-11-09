@@ -107,4 +107,4 @@ day 3's notes are not here---they are not written instead created a folder in ch
 
 day 4 continue the work from the folder i was intalling the dependencies and there were some errors
 
-
+Clear and concise communication, focused on points that actually require discussion, are strongly preferred over long AI-generated comments. Zulip's contributors are expected to communicate with intention to avoid wasting maintainer time with long, machine-generated or sloppy writing.
