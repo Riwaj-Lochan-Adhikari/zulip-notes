@@ -111,3 +111,5 @@ Clear and concise communication, focused on points that actually require discuss
 
 A pull request description shouldn't include anything that's obvious from looking at your changes directly (e.g., files changed, functions updated, etc.). Instead, focus on the why behind your changes. LLM-generated content based on your code changes will be an unnecessary regurgitation of information that's already there.
 
+I have read the docs and all now it is time to contribute
+
