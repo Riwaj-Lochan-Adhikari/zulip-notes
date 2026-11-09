@@ -108,3 +108,6 @@ day 3's notes are not here---they are not written instead created a folder in ch
 day 4 continue the work from the folder i was intalling the dependencies and there were some errors
 
 Clear and concise communication, focused on points that actually require discussion, are strongly preferred over long AI-generated comments. Zulip's contributors are expected to communicate with intention to avoid wasting maintainer time with long, machine-generated or sloppy writing.
+
+A pull request description shouldn't include anything that's obvious from looking at your changes directly (e.g., files changed, functions updated, etc.). Instead, focus on the why behind your changes. LLM-generated content based on your code changes will be an unnecessary regurgitation of information that's already there.
+
