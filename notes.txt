@@ -1,6 +1,6 @@
 Multiple blank lines indicate a new topic in my notes (more than 2) however the pattern in not permanenet  
 
-
+When starting a new day see continue work folder in chatGPT-----important
 
 Pull requests that have significant work towards something valuable are often tagged with a completion candidate label.
 
