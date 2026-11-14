@@ -1,1 +1,14 @@
 "in" operator in js checks whether a property exists inside an object.
+
+4 to 14 is nested tenaray operator
+let marks = 82;
+
+let result = marks >= 90
+    ? "Grade A"
+    : marks >= 75
+        ? "Grade B"
+        : marks >= 60
+            ? "Grade C"
+            : "Fail";
+
+console.log(result);
