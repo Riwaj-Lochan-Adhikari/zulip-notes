@@ -1,0 +1,1 @@
+"in" operator in js checks whether a property exists inside an object.
