@@ -12,3 +12,8 @@ let result = marks >= 90
             : "Fail";
 
 console.log(result);
+
+
+path.basename() is a method from Node.js's built-in path module.
+
+It extracts the last part of a file path, usually the filename, without the directory names.
