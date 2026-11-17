@@ -114,3 +114,9 @@ A pull request description shouldn't include anything that's obvious from lookin
 I have read the docs and all now it is time to contribute
 
 Day 5 over --nothing added to notes
+
+https://zulip.com/development-community/#community-norms
+
+link for community-norms
+
+https://zulip.com/development-community/#community-normshttps://zulip.com/development-community/#community-norms
