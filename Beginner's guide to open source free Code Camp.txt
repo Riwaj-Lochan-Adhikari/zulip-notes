@@ -51,4 +51,6 @@ Below is the link to CodeTriage, a website that will send me an email about new 
 
 https://www.codetriage.com/
 
+Always test whether your contribution is breaking their app/website or not. 
+
 From 2:30, you may need to add to notes. ? But I don't think it's necessary for now, so I am not adding to notes. 
