@@ -9,3 +9,10 @@ find entry points in code base
 see if there is a CLI
 
 watched till 1:44:55 no need more found a better video 
+
+
+This is the new video from which I am learning:
+
+       https://youtu.be/BdgwH614LM0?si=xDCgznjFte2CGLmv
+
+The `git switch` command is used to create a new branch. 
