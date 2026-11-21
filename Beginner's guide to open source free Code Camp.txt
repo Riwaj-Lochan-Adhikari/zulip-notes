@@ -50,3 +50,5 @@ https://goodfirstissue.dev/
 Below is the link to CodeTriage, a website that will send me an email about new issues in the repos in which I am currently working. 
 
 https://www.codetriage.com/
+
+From 2:30, you may need to add to notes. ? But I don't think it's necessary for now, so I am not adding to notes. 
