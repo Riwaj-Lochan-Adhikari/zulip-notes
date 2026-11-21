@@ -17,6 +17,11 @@ This is the new video from which I am learning:
 
        https://youtu.be/BdgwH614LM0?si=xDCgznjFte2CGLmv
 
+Below is the link to the GitHub that contains all the information till line 44. 
+
+https://github.com/firstcontributions/first-contributions 
+
+
 The `git switch` command is used to create a new branch. 
 
 git add Contributors.md how we use `git add` here is quite different.
