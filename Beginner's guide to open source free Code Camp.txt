@@ -41,4 +41,9 @@ If you're doing something in the checklist below, put an `x` inside `[ ]` so tha
 - [ ] There were steps where I had errors while following this tutorial. I have written them below.
 
 
-Thanks a lot for the tutorial. it really, really helped. 
+Thanks a lot for the tutorial. it really, really helped.
+
+Below is a link for fighting good first issues. 
+
+https://goodfirstissue.dev/
+
