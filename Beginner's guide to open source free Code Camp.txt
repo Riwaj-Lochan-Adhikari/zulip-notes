@@ -16,3 +16,5 @@ This is the new video from which I am learning:
        https://youtu.be/BdgwH614LM0?si=xDCgznjFte2CGLmv
 
 The `git switch` command is used to create a new branch. 
+
+git add Contributors.md how we use `git add` here is quite different. 
