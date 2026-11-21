@@ -54,3 +54,7 @@ https://www.codetriage.com/
 Always test whether your contribution is breaking their app/website or not. 
 
 From 2:30 to 4:58, you may need to add to notes. ? But I don't think it's necessary for now, so I am not adding to notes. 
+
+There is a link that gives tutorial on how to how to contribute to GitHub. I'm not reading it for now, but you may need it in the future. 
+
+https://opensource.guide/how-to-contribute/
