@@ -1,0 +1,11 @@
+Give ur changed code in pr
+
+open source contri will look good in resume
+
+may need to go through go with the flow section again but i am leaving it for now
+
+find entry points in code base 
+
+see if there is a CLI
+
+watched till 1:44:55 no need more found a better video 
