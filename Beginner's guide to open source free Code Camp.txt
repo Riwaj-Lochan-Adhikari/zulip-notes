@@ -1,3 +1,5 @@
+Line 23 is very, very important. 
+
 Give ur changed code in pr
 
 open source contri will look good in resume
@@ -17,4 +19,6 @@ This is the new video from which I am learning:
 
 The `git switch` command is used to create a new branch. 
 
-git add Contributors.md how we use `git add` here is quite different. 
+git add Contributors.md how we use `git add` here is quite different.
+
+Always store somewhere the name of the branch we have given. (VERY, VERY IMPORTANT)
